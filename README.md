@@ -1,1 +1,1 @@
-# House_price_prediction
+In this project XGBRegressor has been used to predict the house price for the famous boston housing pricing dataset and using matplotlib and seaborn the data has been visualized for proper and in depth understanding about the correlations and also to understand the diffrence between actual prices and the predicted values for the input values.
